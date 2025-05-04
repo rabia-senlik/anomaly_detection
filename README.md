@@ -57,6 +57,11 @@ The `requirements.txt` file will include necessary libraries like Pandas, Scikit
 ### 1. Data Loading:
 Run the following script to load the dataset:
 
+**📂 Dataset Link:**
+You can access the MetroPT3 dataset from the following link:
+[MetroPT3 Dataset](https://archive.ics.uci.edu/dataset/791/metropt%2B3%2Bdataset)
+
+Make sure to download and preprocess the data before running the anomaly detection models.
 ```bash
 python data_loader/data.py
 ```
